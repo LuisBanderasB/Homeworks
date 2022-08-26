@@ -1,11 +1,11 @@
-puts Symbol.all_symbols.size
+puts Symbol.all_symbols
 
 # hash = {'val1': 'value1', 'val2': 'value2', 'val3': 'value3', 'val4': 'value4'}
-animals = {:animal1 => "giraffe", :animal2 => "Leon", :animal3 => "Cat"}
-# var = :somesymbol
-# hash2 = ['val1' => 'value1']
+# animals = {:animal1 => "giraffe", :animal2 => "Leon", :animal3 => "Cat"}
+# # var = :somesymbol
+# # hash2 = ['val1' => 'value1']
 
-puts Symbol.all_symbols.size
+# puts Symbol.all_symbols.size
 
 
 ## Oskar's Help in irb
